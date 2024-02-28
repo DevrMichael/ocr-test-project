@@ -1,4 +1,4 @@
-# OCR Test Project
+# Optical Character Recognition Test Project
 
 This project demonstrates the use of Optical Character Recognition (OCR) to convert images of text into editable and searchable text. Leveraging the powerful Python library, PyTesseract, along with Pillow for image processing, we aim to showcase a simple yet effective approach to OCR.
 
